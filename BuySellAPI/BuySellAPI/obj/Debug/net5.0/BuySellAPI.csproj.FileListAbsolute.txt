@@ -1,0 +1,183 @@
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\BuySellAPI.exe
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\BuySellAPI.deps.json
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\BuySellAPI.runtimeconfig.json
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\BuySellAPI.runtimeconfig.dev.json
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\BuySellAPI.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\ref\BuySellAPI.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\BuySellAPI.pdb
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\source\repos\BuySellAPI\obj\Debug\net5.0\BuySellAPI.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BuySellAPI\obj\Debug\net5.0\BuySellAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BuySellAPI\obj\Debug\net5.0\BuySellAPI.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BuySellAPI\obj\Debug\net5.0\BuySellAPI.AssemblyInfo.cs
+C:\Users\HP\source\repos\BuySellAPI\obj\Debug\net5.0\BuySellAPI.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BuySellAPI\obj\Debug\net5.0\BuySellAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\source\repos\BuySellAPI\obj\Debug\net5.0\BuySellAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\BuySellAPI\obj\Debug\net5.0\staticwebassets\BuySellAPI.StaticWebAssets.Manifest.cache
+C:\Users\HP\source\repos\BuySellAPI\obj\Debug\net5.0\staticwebassets\BuySellAPI.StaticWebAssets.xml
+C:\Users\HP\source\repos\BuySellAPI\obj\Debug\net5.0\scopedcss\bundle\BuySellAPI.styles.css
+C:\Users\HP\source\repos\BuySellAPI\obj\Debug\net5.0\BuySellAPI.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\BuySellAPI\obj\Debug\net5.0\BuySellAPI.csproj.CopyComplete
+C:\Users\HP\source\repos\BuySellAPI\obj\Debug\net5.0\BuySellAPI.dll
+C:\Users\HP\source\repos\BuySellAPI\obj\Debug\net5.0\ref\BuySellAPI.dll
+C:\Users\HP\source\repos\BuySellAPI\obj\Debug\net5.0\BuySellAPI.pdb
+C:\Users\HP\source\repos\BuySellAPI\obj\Debug\net5.0\BuySellAPI.genruntimeconfig.cache
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\BuySellAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\BuySellAPI.exe
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\BuySellAPI.deps.json
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\BuySellAPI.runtimeconfig.json
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\BuySellAPI.runtimeconfig.dev.json
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\BuySellAPI.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\ref\BuySellAPI.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\BuySellAPI.pdb
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.csproj.AssemblyReference.cache
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.AssemblyInfoInputs.cache
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.AssemblyInfo.cs
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.csproj.CoreCompileInputs.cache
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\obj\Debug\net5.0\staticwebassets\BuySellAPI.StaticWebAssets.Manifest.cache
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\obj\Debug\net5.0\staticwebassets\BuySellAPI.StaticWebAssets.xml
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\obj\Debug\net5.0\scopedcss\bundle\BuySellAPI.styles.css
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.csproj.CopyComplete
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\obj\Debug\net5.0\ref\BuySellAPI.dll
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.pdb
+C:\Users\Shooter\Desktop\Pro_dia\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.genruntimeconfig.cache
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\appsettings.json
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\BuySellAPI.exe
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\BuySellAPI.deps.json
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\BuySellAPI.runtimeconfig.json
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\BuySellAPI.runtimeconfig.dev.json
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\BuySellAPI.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\ref\BuySellAPI.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\BuySellAPI.pdb
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Humanizer.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.csproj.AssemblyReference.cache
+E:\New folder (2)\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (2)\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.AssemblyInfoInputs.cache
+E:\New folder (2)\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.AssemblyInfo.cs
+E:\New folder (2)\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.csproj.CoreCompileInputs.cache
+E:\New folder (2)\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\New folder (2)\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder (2)\BuySellAPI\BuySellAPI\obj\Debug\net5.0\staticwebassets\BuySellAPI.StaticWebAssets.Manifest.cache
+E:\New folder (2)\BuySellAPI\BuySellAPI\obj\Debug\net5.0\staticwebassets\BuySellAPI.StaticWebAssets.xml
+E:\New folder (2)\BuySellAPI\BuySellAPI\obj\Debug\net5.0\scopedcss\bundle\BuySellAPI.styles.css
+E:\New folder (2)\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.RazorTargetAssemblyInfo.cache
+E:\New folder (2)\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.csproj.CopyComplete
+E:\New folder (2)\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\obj\Debug\net5.0\ref\BuySellAPI.dll
+E:\New folder (2)\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.pdb
+E:\New folder (2)\BuySellAPI\BuySellAPI\obj\Debug\net5.0\BuySellAPI.genruntimeconfig.cache
